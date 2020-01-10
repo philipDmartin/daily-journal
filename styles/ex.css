@@ -1,0 +1,27 @@
+.sec {
+    border: double;
+    color: goldenrod;
+    width: 400px;
+    margin: 30px;
+}
+
+.dat {
+    color: goldenrod;
+    background-color: black;
+    width: 80px;
+}
+
+.con {
+    color: lightskyblue;
+    background-color: black;
+    width: 80px;
+}
+
+.ent {
+    color: whitesmoke;
+    font-family: monospace;
+}
+
+.moo {
+    color: violet;
+}
